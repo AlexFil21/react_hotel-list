@@ -1,0 +1,33 @@
+.stars-line div img{
+    width: 45px;
+    height: 45px;
+}
+.stars-line {
+    padding-left: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 10px 0 15px 
+}
+.stars-line div {
+    position: relative;
+}
+
+.stars-line div span{
+    position: absolute;
+    left: 37%;
+    top: 25%;
+    font-size: 16px
+}
+.stars-line .show  span{
+    color: #fff
+}
+.stars-line .default  span{
+    color: #fff;
+    left: 30%;
+}
+
+/* .show {
+    background-color: red
+} */
+

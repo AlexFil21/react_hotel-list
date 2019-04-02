@@ -1,0 +1,9 @@
+.stars-panel{
+    border-bottom: 1px solid #D3D3D3;
+}
+.stars-panel span{
+    display: block;
+    font-size: 18px
+}
+
+

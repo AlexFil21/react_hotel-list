@@ -1,0 +1,16 @@
+body {
+    margin-top: 20px;
+}
+.main-page{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    margin: 10px
+}
+.search-panel {
+    margin-left: 15px;
+    width: 20%;
+}
+.list-item {
+    width: 75%;
+}

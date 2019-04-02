@@ -1,0 +1,12 @@
+.value{
+    float: right;
+}
+span{
+    font-size: 20px;
+}
+input {
+    margin-left: 5px;
+    margin-right: 20px;
+    transform: scale(1.3)
+  
+}
